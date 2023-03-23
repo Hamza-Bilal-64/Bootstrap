@@ -1,0 +1,26 @@
+.container{
+    border: 0px solid rgb(14, 13, 13);
+    
+}
+.row{
+    border: 0px solid rgb(74, 11, 126);
+    
+}
+.col,.col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-10,.col-11,.col-12{
+    border: 0px solid rgb(246, 250, 6);
+}
+#header{
+background-color: rgb(112, 112, 201);
+}
+#menu{
+    background-color: antiquewhite;
+}
+#content{
+    background-color: aquamarine;
+}
+#sidebar{
+    background-color: rgb(224, 101, 101);
+}
+#footer{
+    background-color: rgb(161, 224, 97);
+}
